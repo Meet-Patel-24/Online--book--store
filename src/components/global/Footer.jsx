@@ -30,7 +30,7 @@ const Footer = () => {
         sx={{ color: "grey", marginTop: "5px" }}
         style={{fontFamily: "Work Sans"}}
       >
-        @2023 <a href="https://shlokjadeja.tech/" target="_blank" className=" text-blue-800" style={{fontFamily: "Work Sans"}} rel="noreferrer">Shlok Jadeja </a>  All rights reserved
+        @2023 <a target="_blank" className=" text-blue-800" style={{fontFamily: "Work Sans"}} rel="noreferrer">Meet Patel</a>  All rights reserved
       </Typography>
     </Box>
   );
